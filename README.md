@@ -1,7 +1,7 @@
 - [Title](#title)
-[Big Title](#big-title)
-[Medium Title](#medium-title) 
-[Small Title](#small-title) 
+- [Big Title](#big-title)
+- [Medium Title](#medium-title) 
+- [Small Title](#small-title) 
 
 # Title
 
